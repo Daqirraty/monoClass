@@ -12,7 +12,7 @@ export default {
       },
 
       fontFamily: {
-        'DM-sans': ['DM-Sans', 'sans-serif'],
+        'DM-Sans': ['DM-Sans', 'sans-serif'],
       },
     
       screens: {
